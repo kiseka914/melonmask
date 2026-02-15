@@ -22845,11 +22845,11 @@ const Ru = C.createContext(),
                         className:
                           "flex md:-space-x-5 -space-x-3  items-center",
                         children: h.jsx("div", {
-                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon",
+                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x6e4f1b843b5089013d2d5e13f7ead5cffc4a111a",
                           className:
                             "bg-secondary text-black font-bold w-fit h-fit rounded-full   font  max-md:p-2 max-md:px-6 p-3 px-5 max-md:text-sm",
                           children: h.jsx("a", { children: "BUY $MELON", 
-                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x6e4f1b843b5089013d2d5e13f7ead5cffc4a111a",
                           }),
                         }),
                       }),
@@ -22913,7 +22913,7 @@ const Ru = C.createContext(),
                               className: "text-2xl max-md:text-2xl",
                               style: { color: n },
                               children: [
-                                e == null ? void 0 : "CA: 0xComingSoon"
+                                e == null ? void 0 : "CA: 0x6e4f1b843b5089013d2d5e13f7ead5cffc4a111a"
                               ],
                             }),
                           ],
@@ -29203,7 +29203,7 @@ const H0 = ({ closeMoadal: t, img: e }) => {
           h.jsx("li", {
             onClick: () =>
               t(
-                "https://dexscreener.com/ethereum/0xComingSoon"
+                "https://dexscreener.com/ethereum/0x6e4f1b843b5089013d2d5e13f7ead5cffc4a111a"
               ),
             children: h.jsx(re, {
               to: "#",
@@ -29215,7 +29215,7 @@ const H0 = ({ closeMoadal: t, img: e }) => {
           h.jsx("li", {
             onClick: () =>
               t(
-                "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon"
+                "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x6e4f1b843b5089013d2d5e13f7ead5cffc4a111a"
               ),
             children: h.jsx(re, {
               className:
@@ -29372,14 +29372,14 @@ const H0 = ({ closeMoadal: t, img: e }) => {
                     }),
                     h.jsx("li", {
                       children: h.jsx(re, {
-                        to: "https://dexscreener.com/ethereum/0xComingSoon",
+                        to: "https://dexscreener.com/ethereum/0x6e4f1b843b5089013d2d5e13f7ead5cffc4a111a",
                         target: "_blank",
                         children: "Dexscreener",
                       }),
                     }),
                     h.jsx("li", {
                       children: h.jsx(re, {
-                        to: "https://etherscan.io/token/0xComingSoon",
+                        to: "https://etherscan.io/token/0x6e4f1b843b5089013d2d5e13f7ead5cffc4a111a",
                         target: "_blank",
                         children: "Contract",
                       }),
@@ -29458,7 +29458,7 @@ const H0 = ({ closeMoadal: t, img: e }) => {
   oL = [
     { to: "/", lebel: "Home" },
     {
-      to: "https://etherscan.io/token/0xComingSoon",
+      to: "https://etherscan.io/token/0x6e4f1b843b5089013d2d5e13f7ead5cffc4a111a",
       lebel: "Contract",
       target: "_blank",
     },
@@ -29502,7 +29502,7 @@ const H0 = ({ closeMoadal: t, img: e }) => {
                 children: [
                   h.jsx("li", {
                     children: h.jsx(re, {
-                      to: "https://dexscreener.com/ethereum/0xComingSoon",
+                      to: "https://dexscreener.com/ethereum/0x6e4f1b843b5089013d2d5e13f7ead5cffc4a111a",
                       target: "_blank",
                       className:
                         "border bg-[#373936] border-white inline-block p-1 rounded-full ",
@@ -29513,7 +29513,7 @@ const H0 = ({ closeMoadal: t, img: e }) => {
                   }),
                   h.jsx("li", {
                     children: h.jsx(re, {
-                      to: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon",
+                      to: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x6e4f1b843b5089013d2d5e13f7ead5cffc4a111a",
                       target: "_blank",
                       className:
                         "border bg-[#373936] border-white inline-block p-1 rounded-full ",
