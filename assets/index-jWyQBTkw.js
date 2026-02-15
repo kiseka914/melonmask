@@ -29569,7 +29569,7 @@ const H0 = ({ closeMoadal: t, img: e }) => {
                     children: h.jsx("h1", {
                       className:
                         " text-center text-secondary text-[5vw] font-sneaker max-md:text-3xl",
-                      children: "Melon Mask",
+                      children: "Melon Musk",
                     }),
                   }),
                   h.jsxs("div", {
