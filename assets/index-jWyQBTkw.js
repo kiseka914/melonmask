@@ -29395,7 +29395,7 @@ const H0 = ({ closeMoadal: t, img: e }) => {
                       children: [
                         h.jsx("li", {
                           children: h.jsx(re, {
-                            to: "https://t.me/MelonMaskERC",
+                            to: "https://t.me/MelonMusk_ERC",
                             target: "_blank",
                             className:
                               "border border-secondary inline-block p-1 rounded-full ",
@@ -29407,7 +29407,7 @@ const H0 = ({ closeMoadal: t, img: e }) => {
                         }),
                         h.jsx("li", {
                           children: h.jsx(re, {
-                            to: "https://x.com/MelonMaskERC",
+                            to: "https://x.com/MelonMuskERC",
                             target: "_blank",
                             className:
                               "border border-secondary inline-block rounded-full p-1",
@@ -29596,7 +29596,7 @@ const H0 = ({ closeMoadal: t, img: e }) => {
                                 children: [
                                   " ",
                                   h.jsx(re, {
-                                    to: "https://t.me/MelonMaskERC",
+                                    to: "https://t.me/MelonMusk_ERC",
                                     target: "_blank",
                                     children: "Telegram",
                                   }),
