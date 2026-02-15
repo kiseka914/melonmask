@@ -22880,7 +22880,7 @@ const Ru = C.createContext(),
                                     className:
                                       "text-4xl max-md:text-2xl font-mono",
                                     children: [
-                                      "Locked",
+                                      "Burnt",
                                     ],
                                   }),
                                 }),
