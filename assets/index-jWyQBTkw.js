@@ -22814,7 +22814,7 @@ const Ru = C.createContext(),
                       id: "herot",
                       className:
                         "text-left text-secondary text-[5vw] font-sneaker max-md:text-[2rem] h-[5vw] max-md:h-[2rem] overflow-hidden",
-                      children: "Melon Mask",
+                      children: "Melon Musk",
                     }),
                     h.jsx("h1", {
                       id: "herom",
@@ -23147,7 +23147,7 @@ const Ru = C.createContext(),
               ref: s,
               className:
                 "bg-secondary font-sneaker cursor-pointer  z-50 overflow-hidden rounded-full uppercase max-md:text-2xl text-black px-5 py-2 ",
-              children: "explore melonmask",
+              children: "explore melonmusk",
             }),
           h.jsxs("div", {
             className: "fixed inset-0 flex flex-col md:flex-row ",
@@ -29315,7 +29315,7 @@ const H0 = ({ closeMoadal: t, img: e }) => {
                     },
                     children: h.jsx("h1", {
                       className: "text-2xl font-sneaker text-secondary",
-                      children: "Melon Mask",
+                      children: "Melon Musk",
                     }),
                   }),
                 }),
