@@ -20740,7 +20740,7 @@ const O5 = ({ loading: t, images: e }) => {
                                 h.jsx("p", {
                                   className: "max-w-[550px] text-custom1",
                                   children:
-                                    "Melon Mask has airdropped 1 million melon tokens to all Retrodoge holders.",
+                                    "Melon Musk has airdropped 1 million melon tokens to all Retrodoge holders.",
                                 }),
                               ],
                             }),
